@@ -11,6 +11,10 @@ A booking website for a guided kite safari business based in Pendine, South West
 - Fully responsive (mobile-first)
 - No build step — open `index.html` or serve with any static server
 
+## Live
+
+**https://claradinehouse.uk**
+
 ## Quick start
 
 ```bash
